@@ -143,6 +143,7 @@ function MypageNavigator() {
     </Safe>
   );
 }
+//
 
 export default function BottomTabNavigator() {
   changeNavigationBarColor(COLOR_PRIMARY);
